@@ -1,0 +1,16 @@
+name = "weprep"
+#main = "src/index.ts"
+main = "dist/index.js"
+compatibility_date = "2024-11-10"
+
+[vars]
+OPENAI_API_KEY = "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"
+
+[[d1_databases]]
+binding = "QDB" # This is the name that your worker code will use to reference the database
+database_name = "question-storage" # Your D1 database name as set up in Cloudflare
+database_id = "a247bc9e-10b1-4e27-8d10-4471f69e1376" # Replace with your actual D1 database ID
+
+[observability]
+enabled = true
+head_sampling_rate = 1

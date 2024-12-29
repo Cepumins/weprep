@@ -1,0 +1,3 @@
+curl -X POST "https://weprep.ratnieks-kristaps.workers.dev/solve-question" \
+-H "Content-Type: application/json" \
+-d '{"content": "How many positive three-digit integers are divisible by both 3 and 4?"}'

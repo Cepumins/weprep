@@ -1,0 +1,626 @@
+{
+  "1": {
+    "id": 1,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "whats 3*3?",
+    "hints": [
+      "Understand that multiplication is a way to add a number to itself a certain number of times.",
+      "Multiply the two numbers together: 3 times 3.",
+      "The result of the multiplication gives you the total."
+    ],
+    "calcs": [
+      "None needed for this step.",
+      "3 * 3 = 9.",
+      "The final answer is 9."
+    ],
+    "answers": [
+      "9",
+      "6",
+      "12",
+      "3",
+      "0"
+    ]
+  },
+  "2": {
+    "id": 2,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "whats 5-2?",
+    "hints": [
+      "Understand that subtraction means taking one number away from another.",
+      "Remember that when you subtract, you are finding the difference between two numbers.",
+      "After performing the subtraction, ensure to check your work for accuracy."
+    ],
+    "calcs": [
+      "None needed for this simple operation.",
+      "5 - 2 = ?",
+      "The result of 5 - 2 is 3."
+    ],
+    "answers": [
+      "3",
+      "2",
+      "5",
+      "7",
+      "0"
+    ]
+  },
+  "3": {
+    "id": 3,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "Whats 1*2?",
+    "hints": [
+      "Understand that multiplication is a way to add a number to itself a certain number of times.",
+      "In this case, you are multiplying 1 by 2, which means you are adding 1 to itself 2 times.",
+      "The result of the multiplication gives you the total quantity represented by the operation."
+    ],
+    "calcs": [
+      "N/A",
+      "1 * 2 = 1 + 1",
+      "1 * 2 = 2"
+    ],
+    "answers": [
+      "2",
+      "1",
+      "3",
+      "0",
+      "4"
+    ]
+  },
+  "4": {
+    "id": 4,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "whats 2*4?",
+    "hints": [
+      "Understand that multiplication is a way to add a number to itself a certain number of times.",
+      "Multiply the two numbers together.",
+      "Present the final result of the multiplication."
+    ],
+    "calcs": [
+      "Identify the numbers: 2 and 4.",
+      "2 * 4 = ?",
+      "The answer is the product of 2 and 4."
+    ],
+    "answers": [
+      "8",
+      "6",
+      "10",
+      "4",
+      "2"
+    ]
+  },
+  "5": {
+    "id": 5,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "whats 3-1?",
+    "hints": [
+      "Understand that subtraction means taking one number away from another.",
+      "Perform the subtraction step by step.",
+      "Verify the result by considering how many units are left after removing 1 from 3."
+    ],
+    "calcs": [
+      "3 - 1",
+      "3 - 1 = 2",
+      "3 - 1 = 2"
+    ],
+    "answers": [
+      "2",
+      "1",
+      "3",
+      "4",
+      "0"
+    ]
+  },
+  "6": {
+    "id": 6,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "whats 6/3?",
+    "hints": [
+      "Understand that the question is asking for how many times 3 fits into 6.",
+      "Perform the division operation to find the quotient.",
+      "Confirm that the result is a whole number and represents the answer to the question."
+    ],
+    "calcs": [
+      "None needed for this part.",
+      "6 ÷ 3 = 2.",
+      "None needed for this part."
+    ],
+    "answers": [
+      "2",
+      "3",
+      "1",
+      "4",
+      "0"
+    ]
+  },
+  "7": {
+    "id": 7,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "whats 7^2?",
+    "hints": [
+      "To find the square of a number, you multiply the number by itself.",
+      "Remember that squaring a number means you are finding the area of a square with sides of that length.",
+      "After performing the multiplication, ensure to double-check your arithmetic for accuracy."
+    ],
+    "calcs": [
+      "7 * 7",
+      "7 * 7 = 49",
+      "Confirm that 7 * 7 indeed equals 49."
+    ],
+    "answers": [
+      "49",
+      "14",
+      "56",
+      "21",
+      "64"
+    ]
+  },
+  "8": {
+    "id": 8,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "Whats 8^3?",
+    "hints": [
+      "To find 8^3, you need to multiply 8 by itself three times.",
+      "First, calculate 8 * 8 to find the intermediate result.",
+      "Now multiply the intermediate result by 8 to find the final answer."
+    ],
+    "calcs": [
+      "8 * 8 * 8",
+      "8 * 8 = 64",
+      "64 * 8"
+    ],
+    "answers": [
+      "512",
+      "256",
+      "64",
+      "128",
+      "1024"
+    ]
+  },
+  "9": {
+    "id": 9,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "Whats 9/5?",
+    "hints": [
+      "To solve the problem, you need to divide the numerator (9) by the denominator (5).",
+      "If you prefer a fraction, you can express the result as 9/5.",
+      "You can also convert the fraction to a mixed number if needed."
+    ],
+    "calcs": [
+      "9 ÷ 5 = 1.8",
+      "9/5 is already in its simplest form.",
+      "9/5 = 1 4/5."
+    ],
+    "answers": [
+      "1.8",
+      "1.5",
+      "2",
+      "0.9",
+      "1.2"
+    ]
+  },
+  "10": {
+    "id": 10,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "Whats 10+2?",
+    "hints": [
+      "Understand that you need to identify the two numbers that are being added together.",
+      "Addition is the process of combining two quantities to find their total.",
+      "After performing the addition, ensure that you clearly state the result."
+    ],
+    "calcs": [
+      "Identify the numbers 10 and 2.",
+      "10 + 2 = ?",
+      "The result of 10 + 2 is 12."
+    ],
+    "answers": [
+      "12",
+      "10",
+      "2",
+      "14",
+      "20"
+    ]
+  },
+  "11": {
+    "id": 11,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "Whats 11*3>?",
+    "hints": [
+      "Start by recognizing that you need to multiply the two numbers given.",
+      "After performing the multiplication, you will have a numerical result.",
+      "The final step is to understand what the result means in relation to the question."
+    ],
+    "calcs": [
+      "11 * 3",
+      "11 * 3 = 33",
+      "The result is simply 33."
+    ],
+    "answers": [
+      "33",
+      "34",
+      "30",
+      "36",
+      "31"
+    ]
+  },
+  "12": {
+    "id": 12,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "Whats 12 divided into 4 equal parts?",
+    "hints": [
+      "To divide a number into equal parts, you need to determine how many times the divisor fits into the dividend.",
+      "Division is the process of determining how many times one number is contained within another.",
+      "The result of the division will give you the size of each equal part."
+    ],
+    "calcs": [
+      "None needed yet; just understand the concept of division.",
+      "12 ÷ 4 = ?",
+      "12 ÷ 4 = 3."
+    ],
+    "answers": [
+      "3",
+      "4",
+      "6",
+      "2",
+      "1"
+    ]
+  },
+  "13": {
+    "id": 13,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "whats the smallest number divisible by 13?",
+    "hints": [
+      "To find the smallest number divisible by a given integer, consider the definition of divisibility.",
+      "Remember that any integer is divisible by itself.",
+      "Think about the multiples of 13 and identify the first one."
+    ],
+    "calcs": [
+      "The smallest positive integer divisible by 13 is 13.",
+      "13 ÷ 13 = 1, confirming that 13 is divisible by 13.",
+      "The first multiple of 13 is 13 × 1 = 13."
+    ],
+    "answers": [
+      "13",
+      "1",
+      "26",
+      "12",
+      "0"
+    ]
+  },
+  "14": {
+    "id": 14,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "Whats the smallest number divisable by 14, that isnt 14?",
+    "hints": [
+      "To find the smallest number divisible by 14 that isn't 14, you need to look for the next multiple of 14.",
+      "The next multiple of a number can be found by adding the number to itself.",
+      "Ensure that the number you found is indeed divisible by 14 and check that it is not equal to 14."
+    ],
+    "calcs": [
+      "The multiples of 14 are 14, 28, 42, etc.",
+      "14 + 14 = 28.",
+      "28 ÷ 14 = 2 (which confirms divisibility)."
+    ],
+    "answers": [
+      "28",
+      "14",
+      "21",
+      "42",
+      "7"
+    ]
+  },
+  "15": {
+    "id": 15,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "Whats the largest number that divisible by 15 thats under 100?",
+    "hints": [
+      "To find the largest number under 100, start by listing numbers just below 100.",
+      "To check for divisibility by 15, remember that a number must be divisible by both 3 and 5.",
+      "Once you find a candidate, verify that it is the largest by comparing it with other multiples of 15 below 100."
+    ],
+    "calcs": [
+      "The largest number under 100 is 99.",
+      "Check numbers like 90, 85, etc., for divisibility by 15.",
+      "The multiples of 15 under 100 are 15, 30, 45, 60, 75, 90."
+    ],
+    "answers": [
+      "90",
+      "75",
+      "85",
+      "95",
+      "60"
+    ]
+  },
+  "16": {
+    "id": 16,
+    "source": "submitted",
+    "topic": "language",
+    "difficulty": "m",
+    "qtext": "Is 16 a prime?",
+    "hints": [
+      "A prime number is defined as a natural number greater than 1 that has no positive divisors other than 1 and itself.",
+      "To find the factors of 16, consider all the numbers that can divide 16 without leaving a remainder.",
+      "After identifying the factors, check if there are any divisors other than 1 and 16 itself."
+    ],
+    "calcs": [
+      "Not applicable at this stage.",
+      "The factors of 16 are 1, 2, 4, 8, and 16.",
+      "Since 16 has factors other than 1 and 16, it is not a prime number."
+    ],
+    "answers": [
+      "No, 16 is not a prime number.",
+      "Yes, 16 is a prime number.",
+      "Yes, 16 is prime because it is even.",
+      "No, 16 is prime because it is greater than 10.",
+      "Yes, 16 is prime because it has only two factors."
+    ]
+  },
+  "17": {
+    "id": 17,
+    "source": "submitted",
+    "topic": "language",
+    "difficulty": "m",
+    "qtext": "Is 17 a prime?\n",
+    "hints": [
+      "A prime number is defined as a natural number greater than 1 that has no positive divisors other than 1 and itself.",
+      "To find the factors of 17, check for divisibility by all natural numbers up to the square root of 17.",
+      "If 17 has no divisors other than 1 and 17, then it is a prime number."
+    ],
+    "calcs": [
+      "N/A",
+      "The square root of 17 is approximately 4.12, so check divisibility by 2, 3, and 4.",
+      "N/A"
+    ],
+    "answers": [
+      "Yes, 17 is a prime number.",
+      "No, 17 is not a prime number.",
+      "Yes, 17 is an even number.",
+      "Yes, 17 has more than two factors.",
+      "No, 17 is divisible by 3."
+    ]
+  },
+  "18": {
+    "id": 18,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "What are smallest numbers making up 18?",
+    "hints": [
+      "Start by considering the smallest positive integers and how they can be combined to reach the target sum.",
+      "Think about how many times you can use each of the smallest numbers without exceeding 18.",
+      "Explore combinations of the smallest numbers to find different sets that add up to 18."
+    ],
+    "calcs": [
+      "Begin with 1, 2, and 3, and see how many of each can fit into 18.",
+      "For example, if using only 1s, you can use eighteen 1s to make 18.",
+      "Consider pairs or groups of numbers, such as (1, 1, 1, ..., 1) or (2, 2, ..., 2) and see how they can combine."
+    ],
+    "answers": [
+      "1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1",
+      "2, 2, 2, 2, 2, 2, 2, 2",
+      "3, 3, 3, 3, 3, 3",
+      "4, 4, 4, 4, 4",
+      "5, 5, 5, 5"
+    ]
+  },
+  "19": {
+    "id": 19,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "is 19 prime?",
+    "hints": [
+      "A prime number is defined as a natural number greater than 1 that cannot be formed by multiplying two smaller natural numbers.",
+      "To check if a number is prime, you need to see if it can be divided evenly by any number other than 1 and itself.",
+      "If no divisors are found other than 1 and the number itself, then the number is prime."
+    ],
+    "calcs": [
+      "N/A",
+      "Check divisibility by numbers less than the square root of 19 (which is approximately 4.36).",
+      "Since 19 is not divisible by 2, 3, or any other integer up to 4, it is confirmed as prime."
+    ],
+    "answers": [
+      "Yes, 19 is a prime number.",
+      "No, 19 is not a prime number.",
+      "Yes, 19 is an even number.",
+      "No, 19 can be divided by 3.",
+      "Yes, 19 is a composite number."
+    ]
+  },
+  "23": {
+    "id": 23,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "Question 4GM158 Under a certain company’s medical insurance plan, the amount an employee must pay for medical expenses consists of payment for the first $450 of expenses plus 20 percent of additional expenses, up to a maximum total payment of $1,350 per year. All remaining expenses are paid by the plan. Last year, if an employee paid the maximum amount for medical expenses, what is the least amount that the plan could have paid?  $720 $1,080 $3,600 $4,500 $4,950",
+    "hints": [
+      "The employee pays a fixed amount for the first $450 and then 20% of any additional expenses, up to a total payment limit.",
+      "To find the total expenses, consider how much the employee pays after the first $450.",
+      "Once you have the total expenses, subtract the employee's payment from it to find the amount covered by the plan."
+    ],
+    "calcs": [
+      "The maximum payment by the employee is $1,350.",
+      "Let \\( x \\) be the total expenses. The employee pays $450 + 0.20(x - 450) = 1,350.",
+      "Total expenses = $1,350 + 0.20(x - 450)."
+    ],
+    "answers": [
+      "$3,600",
+      "$720",
+      "$1,080",
+      "$4,500",
+      "$4,950"
+    ]
+  },
+  "458": {
+    "id": 458,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "whats 5 + 2",
+    "hints": [
+      "Understand that addition combines two or more numbers to find their total.",
+      "Add the two numbers together.",
+      "The result of the addition is the final answer."
+    ],
+    "calcs": [
+      "Identify the numbers 5 and 2.",
+      "5 + 2 = ?",
+      "The sum is 7."
+    ],
+    "answers": [
+      "7",
+      "6",
+      "8",
+      "5",
+      "9"
+    ]
+  },
+  "580": {
+    "id": 580,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "whats 2^2^2?",
+    "hints": [
+      "Understand the order of operations, specifically how to handle exponents.",
+      "After calculating the inner exponent, substitute it back into the expression to evaluate the outer exponent.",
+      "Ensure you perform the final calculation correctly to arrive at the final answer."
+    ],
+    "calcs": [
+      "Start with the inner exponent: 2^2 = 4.",
+      "Now calculate 2^4.",
+      "2^4 = 16."
+    ],
+    "answers": [
+      "16",
+      "8",
+      "4",
+      "2",
+      "32"
+    ]
+  },
+  "706": {
+    "id": 706,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "Question 4GM158 Under a certain company’s medical insurance plan, the amount an employee must pay for medical expenses consists of payment for the first $450 of expenses plus 20 percent of additional expenses, up to a maximum total payment of $1,350 per year. All remaining expenses are paid by the plan. Last year, if an employee paid the maximum amount for medical expenses, what is the least amount that the plan could have paid?  $720 $1,080 $3,600 $4,500 $4,950",
+    "hints": [
+      "Understand that the employee pays a fixed amount for the first $450 and then a percentage of any additional expenses.",
+      "Rearranging the equation from Hint 1 will help you find the total expenses incurred.",
+      "Once you have the total expenses, subtract the amount the employee paid from it to find out what the plan covered."
+    ],
+    "calcs": [
+      "Let X be the total expenses. The employee pays $450 + 0.20 * (X - 450) = $1,350.",
+      "Set up the equation: $450 + 0.20 * (X - 450) = $1,350. Solve for X.",
+      "Plan payment = Total expenses - Employee payment."
+    ],
+    "answers": [
+      "$4,500",
+      "$3,600",
+      "$1,080",
+      "$720",
+      "$4,950"
+    ]
+  },
+  "712": {
+    "id": 712,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "What is 2 + 5 * 10?",
+    "hints": [
+      "Recognize that the expression contains both addition and multiplication, and you need to determine the order in which to perform these operations.",
+      "Remember the order of operations: perform multiplication before addition.",
+      "After calculating the multiplication, add the result to 2 to find the final answer."
+    ],
+    "calcs": [
+      "None needed yet; focus on understanding the operations.",
+      "Calculate 5 * 10 first.",
+      "If 5 * 10 = 50, then 2 + 50 = 52."
+    ],
+    "answers": [
+      "52",
+      "70",
+      "57",
+      "12",
+      "50"
+    ]
+  },
+  "713": {
+    "id": 713,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "whats 3^2^2?",
+    "hints": [
+      "Understand the order of operations, specifically how to handle exponentiation.",
+      "Now that you have the inner exponent, substitute it back into the expression.",
+      "Calculate the final result of 3 raised to the power of 4."
+    ],
+    "calcs": [
+      "Start with the inner exponent: 2^2 = 4.",
+      "Evaluate 3^4.",
+      "3^4 = 3 * 3 * 3 * 3 = 81."
+    ],
+    "answers": [
+      "81",
+      "9",
+      "27",
+      "12",
+      "64"
+    ]
+  },
+  "714": {
+    "id": 714,
+    "source": "submitted",
+    "topic": "quant",
+    "difficulty": "m",
+    "qtext": "whats 3^3^2?",
+    "hints": [
+      "Understand the order of operations, specifically how to handle exponentiation.",
+      "Now that you have the result from Part 1, you need to evaluate the next exponentiation.",
+      "Finally, compute the result of 3 raised to the power obtained in Part 2."
+    ],
+    "calcs": [
+      "Start with the innermost exponent: 3^2 = 9.",
+      "Calculate 3^9.",
+      "3^9 = 19683."
+    ],
+    "answers": [
+      "19683",
+      "729",
+      "81",
+      "27",
+      "243"
+    ]
+  }
+}
